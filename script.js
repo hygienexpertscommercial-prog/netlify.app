@@ -1,4 +1,2 @@
 
-document.addEventListener("DOMContentLoaded",function(){
-console.log("Premium Corporate HygienExperts Website Loaded");
-});
+console.log("HygienExperts Dribbble Style Website Ready");
