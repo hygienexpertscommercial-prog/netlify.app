@@ -1,4 +1,4 @@
 
-document.addEventListener("DOMContentLoaded", function() {
-    console.log("HygienExperts Website Loaded Successfully");
+document.addEventListener("DOMContentLoaded",function(){
+console.log("Premium Corporate HygienExperts Website Loaded");
 });
